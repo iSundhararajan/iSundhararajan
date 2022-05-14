@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @iSundhararajan
 - 🔭 I’m currently working on web dev and design 
 - 🌱 I’m currently learning new languages
-- 👯 I’m looking to collaborate on hackathons projects
+- 👯 I’m looking to meet new people and collaborate on open-source projects
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am an artist!
 
